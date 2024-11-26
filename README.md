@@ -1,6 +1,7 @@
 # Netflixbyhassan
 
 **Overview**
+
 Welcome to the Netflix Clone project! This repository features a simplified version of the Netflix streaming platform, built using HTML and CSS. The application includes a landing page, a sign-in page, and a movie page, providing a user-friendly experience that mimics the essential functionalities of the original platform. 
 
 **Features**
